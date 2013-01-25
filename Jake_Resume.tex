@@ -1,0 +1,95 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+% moderncv themes
+\moderncvtheme[green]{classic}                  % optional argument are 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvtheme[green]{classic}                % idem
+
+% character encoding
+\usepackage[utf8]{inputenc}                   % replace by the encoding you are using
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\setlength{\hintscolumnwidth}{3.5cm}						% if you want to change the width of the column with the dates
+%\AtBeginDocument{\setlength{\maketitlenamewidth}{6cm}}  % only for the classic theme, if you want to change the width of your name placeholder (to leave more space for your address details
+\AtBeginDocument{\recomputelengths}                     % required when changes are made to page layout lengths
+
+% Hyperlinks
+\usepackage{hyperref}								% to use hyperlinks
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}			% hyperlinks setup
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+% personal data
+\firstname{Jake}
+\familyname{Nielsen}
+
+%\title{Resumé title (optional)}               % optional, remove the line if not wanted
+\address{40 Karch St}{Cambridge, ON}    % optional, remove the line if not wanted
+%\mobile{+30 698 4385057}                    % optional, remove the line if not wanted
+\phone{(226) 201-0430}                      % optional, remove the line if not wanted
+%\fax{fax (optional)}                          % optional, remove the line if not wanted
+\email{jake.k.nielsen@gmail.com}                      % optional, remove the line if not wanted
+%\email{\href{mailto:s.dakourou@gmail.com}{s.dakourou@gmail.com}}                      % optional, remove the line if not wanted
+\homepage{github.com/jknielse}%{LinkedIn Profile}}                % optional, remove the line if not wanted
+%\extrainfo{additional information (optional)} % optional, remove the line if not wanted
+%\photo[64pt][0.4pt]{picture}                         % '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file; optional, remove the line if not wanted
+%\quote{Some quote (optional)}                 % optional, remove the line if not wanted
+
+% to show numerical labels in the bibliography; only useful if you make citations in your resume
+\makeatletter
+\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+\makeatother
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+
+%\nopagenumbers{}                             % uncomment to suppress automatic page numbering for CVs longer than one page
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Skills}
+
+\cvline{\textbf{Languages}}{\textbf{C}, \textbf{C++}, \textbf{Objective-C}, Python, nodejs, Scheme, Assembly}
+\cvline{\textbf{Software and Technologies}}{ROS(recreationally), Visual Studio, \textbf{X-Code}, Vim, \textbf{Git}, Windows, Linux, \textbf{Mac OSX}}
+\cvline{\textbf{Embedded Systems}}{Arduino, AVR Microcontrollers, I2C, Experience Designing Control Systems}
+
+\section{Education}
+%\cventry{year--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}
+\cventry{2009 - Present}{Candidate for Bachelor of Applied Sciences in \newline{}Honours Mechatronics Engineering}{\newline{}University of Waterloo}{}{}{
+Relevant Courses: Designing Functional Programs, RTOS, Sensors and Instrumentation, Elementary Algorithm Design and Data Abstraction, RCL Circuits, Ordinary Differential Equations, Mechanics of Deformable Solids, Physics: Dynamics, Microcontrollers and Digital Logic, Control Systems}
+
+\section{Work Experience}
+\cventry{Sept 2012 - Present}{Mobile Software Engineering}{\newline{}Rebellion Media Inc.}{Waterloo}{}
+{Developing iOS applications
+    \newline{}Writing backends using nodejs and mongoose
+    \newline{}Troubleshooting hardware in the event of test failures
+\newline{}Configuring and uploading harddisk images to Sandvine's Policy Traffic Switches\newline{}}
+
+\cventry{Jan 2012 - Apr 2012}{Cofounder and Software Developer}{\newline{}Crouton Labs inc}{Waterloo}{}{Made logical extensions to the vanila iOS SDK to allow for automatic serialization of objects, and intelligent implimentation of the dispatcher design pattern\newline{}Refactored aggressively, resulting in the most readable and stable codebase that I've ever worked with.\newline{}}
+
+\cventry{May 2011 - Aug 2011}{Manufacturing Software Engineering}{\newline{}Sandvine Inc.}{Waterloo}{}
+{Worked on the Manufacturing Engineering team
+    \newline{}Wrote and maintained testing scripts to ensure quality control
+    \newline{}Troubleshooting hardware in the event of test failures
+\newline{}Configuring and uploading harddisk images to Sandvine's Policy Traffic Switches\newline{}}
+
+\cventry{May 2010 - Aug 2010 \newline{}\newline{}Sept 2010 - Dec 2010}{Software and Hardware Developer}{\newline{}University of Waterloo}{}{}
+{Created control system for 200 stepper motors and reading from 200 pressure sensors
+    \newline{}Implemented firmware, software, and GUI for an experimental CNC lathe
+    \newline{}Produced firmware, software and pendant controller for a 3D scanner
+\newline{}Received an outstanding on the work report evaluation}
+
+\section{Projects and Competitions}
+\cvline{\textbf{Computing Collective} (Co-founder)}
+{Worked on start-up that planned to commercialize the volunteer based grid computing space, winners of the Velocity Venture Fund competition.
+\newline{}Involved in the software development of said platform in python.
+\newline{}We sell processing power that we acquire through CPU scavenging in return for game upgrades and free software.}
+
+\cvline{\textbf{VeloCity Entrepreneurial Incubator} (Resident)}
+{Returning resident at VeloCity, which helps students who are working on start-ups, by providing funding, mentorship and a collaborative environment.}
+
+
+\end{document}
