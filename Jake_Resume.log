@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.24)  24 JAN 2013 22:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.24)  6 FEB 2013 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -752,46 +752,39 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
 
  []
 
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./Jake_Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
-
-
-Package rerunfilecheck Warning: File `Jake_Resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Jake_Resume.out':
-(rerunfilecheck)             Before: 43318AA943882AACDE52E3516A112F62;195
-(rerunfilecheck)             After:  254FD42370F655D5CC5F04F7FF1C36ED;195.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+Package rerunfilecheck Info: File `Jake_Resume.out' has not changed.
+(rerunfilecheck)             Checksum: 254FD42370F655D5CC5F04F7FF1C36ED;195.
  ) 
 Here is how much of TeX's memory you used:
- 8889 strings out of 493488
- 134376 string characters out of 3141347
- 264927 words of memory out of 3000000
- 12000 multiletter control sequences out of 15000+200000
- 64742 words of font info for 69 fonts, out of 3000000 for 9000
+ 8891 strings out of 493488
+ 134413 string characters out of 3141347
+ 265927 words of memory out of 3000000
+ 12002 multiletter control sequences out of 15000+200000
+ 67737 words of font info for 70 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  42i,12n,67p,777b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -802,10 +795,10 @@ pe1/public/lm/lmr17.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
 lm/lmri10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmro10.
 pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Jake_Resume.pdf (2 pages, 195340 bytes).
+Output written on Jake_Resume.pdf (2 pages, 195382 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 19489 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 20001 words of extra memory for PDF output out of 20736 (max. 10000000)
 
