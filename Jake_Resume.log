@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.24)  6 FEB 2013 19:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.1.24)  5 MAR 2013 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -659,15 +659,15 @@ File: mt-cmr.cfg 2009/11/09 v2.0 microtype config. file: Computer Modern Roman
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
-* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* h-part:(L,W,R)=(47.80173pt, 501.90442pt, 47.80173pt)
+* v-part:(T,H,B)=(54.08423pt, 709.83624pt, 81.12637pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=478.00812pt
-* \textheight=676.04005pt
-* \oddsidemargin=-12.52011pt
-* \evensidemargin=-12.52011pt
-* \topmargin=-41.6673pt
+* \textwidth=501.90442pt
+* \textheight=709.83624pt
+* \oddsidemargin=-24.46826pt
+* \evensidemargin=-24.46826pt
+* \topmargin=-55.18576pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -703,7 +703,6 @@ LaTeX Info: Redefining \nameref on input line 50.
 \@outlinefile=\write3
 \openout3 = `Jake_Resume.out'.
 
-\pagenumberwidth=\skip68
 \makecvtitledetailsbox=\box29
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 52.
 
@@ -738,67 +737,61 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box30
-\makecvtitledetailswidth=\skip69
-\makecvtitlepicturewidth=\skip70
+\makecvtitledetailswidth=\skip68
+\makecvtitlepicturewidth=\skip69
 
 Underfull \hbox (badness 10000) in paragraph at lines 52--52
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 55.
+(Font)              <6> on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
 
  []
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
 
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
- (./Jake_Resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 94.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+(./Jake_Resume.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 99.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
 Package rerunfilecheck Info: File `Jake_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 254FD42370F655D5CC5F04F7FF1C36ED;195.
  ) 
 Here is how much of TeX's memory you used:
- 8891 strings out of 493488
- 134413 string characters out of 3141347
- 265927 words of memory out of 3000000
- 12002 multiletter control sequences out of 15000+200000
- 67737 words of font info for 70 fonts, out of 3000000 for 9000
+ 8883 strings out of 493488
+ 134313 string characters out of 3141347
+ 265932 words of memory out of 3000000
+ 12000 multiletter control sequences out of 15000+200000
+ 63214 words of font info for 67 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 42i,12n,67p,777b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,11n,67p,777b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2012/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 12/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2012/texmf-di
 st/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/public/lm/lmr17.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
-lm/lmri10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmro10.
-pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on Jake_Resume.pdf (2 pages, 195382 bytes).
+lm/lmro10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/lm/lmro17.
+pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/marvosym/marvosym.pf
+b>
+Output written on Jake_Resume.pdf (1 page, 185671 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 20001 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 17953 words of extra memory for PDF output out of 20736 (max. 10000000)
 
