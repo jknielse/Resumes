@@ -1,6 +1,6 @@
 \PassOptionsToPackage{pdfpagelabels=false}{hyperref}
 \documentclass[11pt,a4paper]{moderncv}
-\pagenumbering{gobble}
+
 % moderncv themes
 \moderncvtheme[green]{classic}                  % optional argument are 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
 %\moderncvtheme[green]{classic}                % idem

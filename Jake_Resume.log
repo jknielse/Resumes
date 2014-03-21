@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Cygwin) (format=pdflatex 2014.1.17)  18 MAR 2014 23:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Cygwin) (format=pdflatex 2014.1.17)  21 MAR 2014 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,7 +1115,6 @@ LaTeX Info: Redefining \nameref on input line 51.
 \@outlinefile=\write4
 \openout4 = `Jake_Resume.out'.
 
-\pagenumberwidth=\skip78
 \makecvtitledetailsbox=\box53
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 53.
 
@@ -1150,8 +1149,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvtitlepicturebox=\box54
-\makecvtitledetailswidth=\skip79
-\makecvtitlepicturewidth=\skip80
+\makecvtitledetailswidth=\skip78
+\makecvtitlepicturewidth=\skip79
 
 Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
@@ -1173,30 +1172,25 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 103.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
 Package rerunfilecheck Info: File `Jake_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 254FD42370F655D5CC5F04F7FF1C36ED;195.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 21658 strings out of 493315
- 389397 string characters out of 6143675
+ 21651 strings out of 493315
+ 389303 string characters out of 6143675
  497922 words of memory out of 5000000
- 24657 multiletter control sequences out of 15000+600000
- 67571 words of font info for 68 fonts, out of 8000000 for 9000
+ 24655 multiletter control sequences out of 15000+600000
+ 63048 words of font info for 65 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 70i,12n,59p,777b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,59p,799b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
 nts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr
 10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf
 -dist/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf-dist/fonts/type1/public
-/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/marvosym/marvosym.pfb>
-Output written on Jake_Resume.pdf (1 page, 193897 bytes).
+/lm/lmro10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on Jake_Resume.pdf (1 page, 185627 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 20013 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 17965 words of extra memory for PDF output out of 20736 (max. 10000000)
 
