@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2015 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2015 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Jake_Resume.tex
+**Jake_Resume.tex
 (./Jake_Resume.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
@@ -1186,12 +1186,12 @@ Package rerunfilecheck Info: File `Jake_Resume.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  23662 strings out of 493089
- 456867 string characters out of 6134842
+ 456865 string characters out of 6134842
  542498 words of memory out of 5000000
  26750 multiletter control sequences out of 15000+600000
  62965 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,58p,10387b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,11n,58p,10385b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-di
@@ -1200,7 +1200,7 @@ pe1/public/lm/lmr17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
 lm/lmro10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro17.
 pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pf
 b>
-Output written on Jake_Resume.pdf (1 page, 187977 bytes).
+Output written on Jake_Resume.pdf (1 page, 187991 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
